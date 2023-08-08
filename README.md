@@ -1,22 +1,24 @@
-# **`Tran Hoang Minh - AI Engineer`**
-<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiamdiu/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb) -->
-I'm an enthusiastic AI Engineer wants to create my own AI world with my AI applications.
+<h1 align="center">Hi 👋, I'm Tran Hoang Minh - AI Engineer</h1>
+<h3 align="center">A passionate AI Student - AI Engineer from Vietnam</h3>
 
-<a href="https://www.linkedin.com/in/tranhminh8464/"><img width="27" height="27" alt="Linkedin" title="Linkedin" src="icon/linkedin.png"/></a> &#8287;
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb"><img width="27" heigh="27" alt="Gmail" title="Gmail" src="icon/gmail.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-</br>
 
+- 🔭 I’m currently working on [Siamese face recognition](https://github.com/minhhoang2705/siamese-net-face-reg)
+
+- 🌱 I’m currently learning **NLP, Computer Vision**
+
+- 👨‍💻 All of my projects are available at [https://github.com/minhhoang2705](https://github.com/minhhoang2705)
+
+- 💬 Ask me about **Machine Learning, AI, etc.**
+
+- 📫 How to reach me **tranhminh8464@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/minhhoang2705?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<a href="https://linkedin.com/in/tranhminh8464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tranhminh8464" height="30" width="40" /></a>
+<a href="https://fb.com/hoangminhtr2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangminhtr2705" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### **`Languages and Tools`**
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/jupyter/jupyter-original.svg" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhhoang2705&show_icons=true&locale=en&layout=compact" alt="minhhoang2705" /></p>
