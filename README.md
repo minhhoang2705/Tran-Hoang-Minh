@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Hoang Minh - AI Engineer</h1>
-<h3 align="center">A passionate AI Student - AI Engineer from Vietnam</h3>
+<h3 align="center">A passionate AI Student - AI Engineer from FPT University</h3>
 
 
 - 🔭 I’m currently working on [Siamese face recognition](https://github.com/minhhoang2705/siamese-net-face-reg)
