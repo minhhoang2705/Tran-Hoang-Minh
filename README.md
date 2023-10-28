@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Student - AI Engineer from FPT University</h3>
 
 
-- 🔭 I’m currently working on [Siamese face recognition](https://github.com/minhhoang2705/siamese-net-face-reg)
+- 🔭 I’m currently working on [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR.git)
 
 - 🌱 I’m currently learning **NLP, Computer Vision**
 
