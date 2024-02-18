@@ -22,5 +22,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhhoang2705&show_icons=true&locale=en&layout=compact" alt="minhhoang2705" /></p>
 <p align="left">
-<a href="https://app.daily.dev/hoangminhtr2705"><img src="https://api.daily.dev/devcards/7e2647b5262343498d62c5f44364bb63.png?r=olr" width="400" alt="Minh Tran's Dev Card"/></a>
+<a href="https://app.daily.dev/hoangminhtr2705"><img src="https://api.daily.dev/devcards/v2/pAKn0SdaNhtGmPpn5tlCN.png?r=xzl&type=wide" width="652" alt="Minh Tran's Dev Card"/></a>
 </p>
