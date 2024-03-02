@@ -2,13 +2,13 @@
 <h3 align="center">A passionate AI Student - AI Engineer from FPT University</h3>
 
 
-- 🔭 I’m currently working on [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR.git)
+- 🔭 I’m currently working on [Real-time Human Action Recognition](https://github.com/ThongVM003/Real-time-Human-Action-Detection)
 
-- 🌱 I’m currently learning **NLP, Computer Vision**
+- 🌱 I’m currently learning **Computer Vision, Large Vision Model**
 
 - 👨‍💻 All of my projects are available at [https://github.com/minhhoang2705](https://github.com/minhhoang2705)
 
-- 💬 Ask me about **Machine Learning, AI, etc.**
+- 💬 Ask me about **AI, Computer Vision, etc.**
 
 - 📫 How to reach me **tranhminh8464@gmail.com**
 
