@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Real-time Human Action Recognition](https://github.com/ThongVM003/Real-time-Human-Action-Detection)
 
-- 🌱 I’m currently learning **Computer Vision, Large Vision Model**
+- 🌱 I’m currently learning **Advanced techniques in Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/minhhoang2705](https://github.com/minhhoang2705)
 
