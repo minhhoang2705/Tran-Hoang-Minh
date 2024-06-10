@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Tran Hoang Minh - AI Engineer</h1>
-<h3 align="center">A passionate AI Student - AI Engineer from FPT University</h3>
+<h1 align="center">Hi there, I'm Tran Hoang Minh! 👋</h1>
 
+I'm an AI Engineer with a good foundation in deep learning, computer vision. I'm passionate about leveraging AI to solve real-world problems and constantly seeking opportunities to learn and grow in this rapidly evolving field.
 
-- 🔭 I’m currently working on [Real-time Human Action Recognition](https://github.com/ThongVM003/Real-time-Human-Action-Detection)
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Advanced techniques in Computer Vision**
+- 📍 Based in Ho Chi Minh City, Vietnam
+- 🎓 B.Sc. in Artificial Intelligence from FPT University
+- 💻 AI Engineer Intern experience at FPT Software and StartupLand
+- 🔭 Currently exploring advanced deep learning models and multi-modal systems
 
-- 👨‍💻 All of my projects are available at [https://github.com/minhhoang2705](https://github.com/minhhoang2705)
+## 📫 Contact Me
 
-- 💬 Ask me about **AI, Computer Vision, etc.**
+- 📧 Email: [tranhminh8464@gmail.com](mailto:tranhminh8464@gmail.com)
+- 💼 LinkedIn: [Tran Hoang Minh](https://www.linkedin.com/in/tranhminh8464/)
+- 🔗 GitHub: [minhhoang2705](https://github.com/minhhoang2705)
 
-- 📫 How to reach me **tranhminh8464@gmail.com**
+## 📚 Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tranhminh8464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tranhminh8464" height="30" width="40" /></a>
-<a href="https://fb.com/hoangminhtr2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangminhtr2705" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
+### [Real-time Human Action Detection in Enclosed Space](https://github.com/ThongVM003/Real-time-Human-Action-Detection)
+- Re-implemented YOWOv2 (You Only Watch Once) and fine-tuned it on a private dataset.
+- Technologies: OpenCV, PyTorch
+
+### [Vietnamese Text Recognition](https://github.com/minhhoang2705)
+- Built an OCR system for Vietnamese documents using PaddleOCR and PyTorch.
+- Customized and fine-tuned the ResNet34 backbone and hyperparameters.
+
+<h2 align="left">Languages and Tools:</h3>
+
+- **Languages:** C/C++, Python, Java, SQL, R
+- **Technologies:** FastAPI, MySQL, PostgreSQL, Git, Scikit-learn, OpenCV, PyTorch, TensorFlow, Linux
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhhoang2705&show_icons=true&locale=en&layout=compact" alt="minhhoang2705" /></p>
 <p align="left">
-<a href="https://app.daily.dev/hoangminhtr2705"><img src="https://api.daily.dev/devcards/v2/pAKn0SdaNhtGmPpn5tlCN.png?r=xzl&type=wide" width="652" alt="Minh Tran's Dev Card"/></a>
-</p>
