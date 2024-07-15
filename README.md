@@ -21,9 +21,13 @@ I'm an AI Engineer with a good foundation in deep learning, computer vision. I'm
 - Re-implemented YOWOv2 (You Only Watch Once) and fine-tuned it on a private dataset.
 - Technologies: OpenCV, PyTorch
 
-### [Vietnamese Text Recognition](https://github.com/minhhoang2705)
+### [Vietnamese Text Recognition](https://github.com/minhhoang2705/Vietnamese-Document-Recognition)
 - Built an OCR system for Vietnamese documents using PaddleOCR and PyTorch.
 - Customized and fine-tuned the ResNet34 backbone and hyperparameters.
+
+### [All in Streamlit](https://github.com/minhhoang2705/All-In-Streamlit.git)
+- This project contains three main AI applications developed using the Streamlit library: Word Correction, Object Detection, and Chatbot. Each application demonstrates a different aspect of AI and machine learning, providing a hands-on approach to deploying models with a user-friendly interface.
+
 
 <h2 align="left">Languages and Tools:</h3>
 
