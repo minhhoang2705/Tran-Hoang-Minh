@@ -1,6 +1,6 @@
 [![MasterHead](header.png)](https://github.com/minhhoang2705)
 
-I'm an AI Engineer with a good foundation in deep learning, computer vision. I'm passionate about leveraging AI to solve real-world problems and constantly seeking opportunities to learn and grow in this rapidly evolving field.
+I'm an AI learner with a good foundation in deep learning, computer vision. I'm passionate about leveraging AI to solve real-world problems and constantly seeking opportunities to learn and grow in this rapidly evolving field.
 
 ## 🚀 About Me
 
