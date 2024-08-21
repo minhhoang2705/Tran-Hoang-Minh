@@ -1,12 +1,11 @@
-[![MasterHead](header.png)](https://github.com/minhhoang2705)
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder GIF" width="680" height="400">
 
-I'm an AI learner with a good foundation in deep learning, computer vision. I'm passionate about leveraging AI to solve real-world problems and constantly seeking opportunities to learn and grow in this rapidly evolving field.
+
 
 ## 🚀 About Me
 
 - 📍 Based in Ho Chi Minh City, Vietnam
-- 🎓 B.Sc. in Artificial Intelligence from FPT University
-- 💻 AI Engineer Intern experience at FPT Software and StartupLand
+- 🎓 Pursuing B.Sc. in Artificial Intelligence from FPT University
 - 🔭 Currently exploring advanced deep learning models and multi-modal systems
 
 ## 📫 Contact Me
