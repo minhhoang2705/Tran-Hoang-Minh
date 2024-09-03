@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5BF7AA&width=440&height=52&lines=Hi+there%2C+I'm+Hoang-Minh+Tran;I'm+currently+an+AI+student+;as+well+as+an+AI+researcher)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5BF7AA&vCenter=true&width=510&height=55&lines=Hi+there%2C+I'm+Hoang-Minh+Tran+%F0%9F%91%8B;Currently+an+undergrad+AI+student+%F0%9F%8E%93;as+well+as+an+AI+researcher%F0%9F%94%AC)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
