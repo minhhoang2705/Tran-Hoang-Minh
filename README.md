@@ -1,17 +1,16 @@
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder GIF" width="680" height="400">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5BF7AA&width=440&height=52&lines=Hi+there%2C+I'm+Hoang-Minh+Tran;I'm+currently+an+AI+student+;as+well+as+an+AI+researcher)](https://git.io/typing-svg)
 
 
 ## 🚀 About Me
 
 - 📍 Based in Ho Chi Minh City, Vietnam
 - 🎓 Pursuing B.Sc. in Artificial Intelligence from FPT University
-- 🔭 Currently exploring advanced deep learning models and multi-modal systems
+- 🔭 Currently exploring advanced Deep Learning models and Multimodal learning
 
 ## 📫 Contact Me
 
 - 📧 Email: [tranhminh8464@gmail.com](mailto:tranhminh8464@gmail.com)
-- 💼 LinkedIn: [Tran Hoang Minh](https://www.linkedin.com/in/tranhminh8464/)
+- 💼 LinkedIn: [Hoang-Minh Tran](https://www.linkedin.com/in/tranhminh8464/)
 - 🔗 GitHub: [minhhoang2705](https://github.com/minhhoang2705)
 
 ## 📚 Projects
