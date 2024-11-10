@@ -4,7 +4,7 @@
 
 - 📍 Based in Ho Chi Minh City, Vietnam
 - 🎓 Pursuing B.Sc. in Artificial Intelligence from FPT University
-- 🔭 Currently exploring advanced Deep Learning models and Multimodal learning
+- 🔭 Currently exploring advanced Deep Learning models and Multimodal machine learning
 
 ## 📫 Contact Me
 
